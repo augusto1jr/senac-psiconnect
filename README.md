@@ -2,7 +2,7 @@
 
 Plataforma web para conectar pacientes a psicólogos de acordo com suas necessidades, especialidades e abordagens de atendimento. O sistema permite a busca de profissionais, aplicação de filtros, visualização de perfil e agendamento de consultas, com foco em acessibilidade e atendimento presencial ou remoto.
 
-> **Repositório:** https://github.com/augusto1jr/psiconnect
+> **Repositório:** https://github.com/augusto1jr/senac-psiconnect
 
 ---
 
